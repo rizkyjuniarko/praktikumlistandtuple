@@ -35,4 +35,6 @@ lalu klik run atau bisa menekan tombol F5
 ![gambar4](screenshoot/ss3.png)
 maka akan muncul menu untuk menginput data nya
 ![gambar5](screenshoot/ss4.png)
+bila kita mengetik opsi t akan muncuk table datanya
+![gambar6](screenshoot/ss5.png)
 
